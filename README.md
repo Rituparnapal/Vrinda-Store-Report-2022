@@ -10,7 +10,7 @@ Regionally, Maharashtra led with $2.99 million in sales, followed by Karnataka a
 
 Seasonal trends indicated a peak in sales volume toward the end of the year, with monthly sales reaching up to $2.0 million. These insights, derived through descriptive analytics and visual storytelling, support strategic decision-making in product focus, regional targeting, and channel optimization.
 
-# Key Insights & Recoomendations
+# Key Insights & Recommendations
 1. Strong performance in Q4 and among female adult shoppers.
 2. Maharashtra and Karnataka are key markets.
 3. Amazon is the leading sales channel, but diversification is evident.
